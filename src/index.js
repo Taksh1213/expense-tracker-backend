@@ -26,7 +26,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://expense-tracker-frontend-one-delta.vercel.app",
+      "https://expense-tracker-taksh.vercel.app/",
     ],
     credentials: true,
   })
